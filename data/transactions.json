@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    {"trx_id": "T101", "amount": 150000.0, "status": "SUCCESS", "voucher": "DISC10"},
+    {"trx_id": "T102", "amount": 500000.0, "status": "FAILED", "voucher": null},
+    {"trx_id": "T103", "amount": 200000.0, "status": "SUCCESS", "voucher": null}
+  ]
+}

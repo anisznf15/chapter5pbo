@@ -1,0 +1,7 @@
+{
+  "logs": [
+    {"log_id": "L801", "level": "INFO", "response_ms": 120, "user_id": 101},
+    {"log_id": "L802", "level": "ERROR", "response_ms": 1200, "user_id": null},
+    {"log_id": "L803", "level": "ERROR", "response_ms": 450, "user_id": 102}
+  ]
+}

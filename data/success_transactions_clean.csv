@@ -1,0 +1,3 @@
+trx_id,amount,voucher_code,total_payment
+T101,150000.0,DISC10,166500.0
+T103,200000.0,TANPA VOUCHER,222000.0

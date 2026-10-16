@@ -1,0 +1,3 @@
+log_id,level,response_ms,user_id,severity
+L802,ERROR,1200,ANONYMOUS,CRITICAL
+L803,ERROR,450,102,WARNING

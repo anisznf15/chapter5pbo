@@ -1,0 +1,7 @@
+{
+  "students": [
+    {"student_id": "S01", "name": "Budi", "score": 85.0, "is_active": true, "scholarship_code": "SCH2026"},
+    {"student_id": "S02", "name": "Siti", "score": 55.0, "is_active": true, "scholarship_code": null},
+    {"student_id": "S03", "name": "Rudi", "score": 90.0, "is_active": false, "scholarship_code": "SCH2026"}
+  ]
+}
